@@ -1,0 +1,14 @@
+{
+    "name": "u0_a106/prueba_html",
+    "description": "prueba de api rest",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "daniel merchan",
+            "email": "merchussoft@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
