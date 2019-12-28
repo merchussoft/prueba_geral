@@ -11,6 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "smarty/smarty": "^2"
+        "smarty/smarty": "^2",
+        "adodb/adodb-php": "^5.20"
     }
 }
